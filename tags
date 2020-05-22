@@ -157,12 +157,12 @@ ccpLoadNumber	app/src/main/java/in/hbb20/countrycodepickerproject/FullNumberFrag
 changeDefaultLanguage	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^    public void changeDefaultLanguage(Language language) {$/;"	m	class:CountryCodePicker
 codePicker	ccp/src/main/java/com/hbb20/CountryCodeAdapter.java	/^    CountryCodePicker codePicker;$/;"	f	class:CountryCodeAdapter
 codePicker	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^    CountryCodePicker codePicker;$/;"	f	class:CountryCodePicker
-com.hbb20	ccp/src/main/java/com/hbb20/Country.java	/^package com.hbb20;$/;"	p
-com.hbb20	ccp/src/main/java/com/hbb20/CountryCodeAdapter.java	/^package com.hbb20;$/;"	p
-com.hbb20	ccp/src/main/java/com/hbb20/CountryCodeDialog.java	/^package com.hbb20;$/;"	p
-com.hbb20	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^package com.hbb20;$/;"	p
-com.hbb20.countrycodepickerlib	ccp/src/androidTest/java/com/hbb20/countrycodepickerlib/ApplicationTest.java	/^package com.hbb20.countrycodepickerlib;$/;"	p
-com.hbb20.countrycodepickerlib	ccp/src/test/java/com/hbb20/countrycodepickerlib/ExampleUnitTest.java	/^package com.hbb20.countrycodepickerlib;$/;"	p
+com.mka.CountryCodePicker	ccp/src/main/java/com/hbb20/Country.java	/^package com.mka.CountryCodePicker;$/;"	p
+com.mka.CountryCodePicker	ccp/src/main/java/com/hbb20/CountryCodeAdapter.java	/^package com.mka.CountryCodePicker;$/;"	p
+com.mka.CountryCodePicker	ccp/src/main/java/com/hbb20/CountryCodeDialog.java	/^package com.mka.CountryCodePicker;$/;"	p
+com.mka.CountryCodePicker	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^package com.mka.CountryCodePicker;$/;"	p
+com.mka.CountryCodePicker.countrycodepickerlib	ccp/src/androidTest/java/com/hbb20/countrycodepickerlib/ApplicationTest.java	/^package com.mka.CountryCodePicker.countrycodepickerlib;$/;"	p
+com.mka.CountryCodePicker.countrycodepickerlib	ccp/src/test/java/com/hbb20/countrycodepickerlib/ExampleUnitTest.java	/^package com.mka.CountryCodePicker.countrycodepickerlib;$/;"	p
 contentColor	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^    int contentColor;$/;"	f	class:CountryCodePicker
 context	ccp/src/main/java/com/hbb20/CountryCodeAdapter.java	/^    Context context;$/;"	f	class:CountryCodeAdapter
 context	ccp/src/main/java/com/hbb20/CountryCodePicker.java	/^    Context context;$/;"	f	class:CountryCodePicker
